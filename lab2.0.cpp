@@ -10,6 +10,7 @@ int main()
 	cout << "x = "; cin >> x;
 	z1 = 2 * x;
 	z2 = x + x;
+	//comentar
 	cout << endl;
 	cout << "Result22: " << endl;
 	cout << "z_1 = " << z1 << endl;
