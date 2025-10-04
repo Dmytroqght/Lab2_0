@@ -1,11 +1,6 @@
 #include <iostream>
 
 using namespace std;
-
-void Hello() {
-	cout << "Hello cpp" << endl;
-}
-
 int main()
 {
 	double x;
@@ -15,7 +10,6 @@ int main()
 	cout << "x = "; cin >> x;
 	z1 = 2 * x;
 	z2 = x + x;
-	Hello();
 	cout << endl;
 	cout << "Result22: " << endl;
 	cout << "z_1 = " << z1 << endl;
