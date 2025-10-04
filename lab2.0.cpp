@@ -18,3 +18,4 @@ int main()
 	cin.get();
 	return 0;
 }
+//Додаємо функцію для feature
